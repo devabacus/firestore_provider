@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "415250796968",
+    "firebase_url": "https://node-red-4d791.firebaseio.com",
+    "project_id": "node-red-4d791",
+    "storage_bucket": "node-red-4d791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415250796968:android:c20d86e6a47bee39708d9d",
+        "android_client_info": {
+          "package_name": "ru.scaledriver.firestore_provider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415250796968-n12crjvkqgg7tpn3n655r7d7rt821aub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkrYYB4LX4Fz2VVDI-olr_SP7ezUCW_Z4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415250796968-n12crjvkqgg7tpn3n655r7d7rt821aub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
